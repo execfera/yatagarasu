@@ -1,0 +1,1 @@
+{"name":"yatagarasu","version":"1.0.x","license":"MIT","dependencies":{"axios":"^0.18.0","bufferutil":"^4.0.0","discord.js":"^11.4.0","libsodium-wrappers":"^0.7.3"},"devDependencies":{"@types/node":"^10.5.8","tsc-watch":"^1.0.26","tslint":"^5.11.0","typescript":"^3.0.1"}}
